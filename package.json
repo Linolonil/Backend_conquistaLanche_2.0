@@ -5,7 +5,7 @@
   "main": "index.js",
   "engines": {
     "node": ">=16"
-  }
+  },
   "scripts": {
     "start": "nodemon src/app.js"
   },
